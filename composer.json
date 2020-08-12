@@ -1,0 +1,17 @@
+{
+    "name": "bvq1212/database",
+    "description": "This is database class",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Quang",
+            "email": "bvq1212@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.0.0"
+    },
+    "autoload": {
+        "files": ["Database.php"]
+    }
+}
